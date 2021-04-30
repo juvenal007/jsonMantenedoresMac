@@ -21,6 +21,6 @@
    "eisp_email": "jsalasse@everis.com"  
    },
    "Prueba" : {
-      nombre : "Juvenal Salas"
+      "nombre" : "Juvenal Salas"
    }
 }
